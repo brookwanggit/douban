@@ -100,6 +100,7 @@ export default {
 
   img {
     height: 15rem;
+    width:10rem;
   }
 }
 

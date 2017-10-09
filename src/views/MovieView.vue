@@ -40,6 +40,12 @@ export default {
   created () {
     // Getting movies data on created
     this.getMovie()
+  },
+  mounted () {
+    console.log('1')
+  },
+  updated () {
+    console.log(this.topMovies)
   }
 }
 </script>

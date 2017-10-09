@@ -137,6 +137,7 @@ export default {
       }, err => {
         // Error handle
         this.onError(err)
+        console.log(err)
       })
     }
   },
@@ -187,9 +188,9 @@ export default {
       font-size: 1.5rem;
       background: #fff;
       border: 0.1rem solid #ccc;
-      border-top-left-radius: 0.3rem;
-      border-top-right-radius: 0.3rem;
+      
       outline: 0;
+      margin-bottom: 0.2rem;
     }
 
     .form-pwd input, .form-name input {

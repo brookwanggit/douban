@@ -13,7 +13,6 @@
     </div>
   </div>
 </template>
-
 <script>
 export default {
   name: 'types',
@@ -80,14 +79,6 @@ export default {
         {
           title: '欧美',
           href: 'movie/western'
-        },
-        {
-          title: '韩国',
-          href: 'movie/korean'
-        },
-        {
-          title: '日本',
-          href: 'movie/japanese'
         }
       ]
     }

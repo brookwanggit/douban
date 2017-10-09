@@ -58,6 +58,17 @@ export default {
 
 <style lang='scss' scoped>
 .list {
+  /* css3 新特性之  选择器 nth-child  last-child nth-last-child*/
+  .thumbnail:nth-child(2){
+    
+    h3{
+      color:#000;
+      text-shadow: 5px 2px 6px rgba(64,64,64,0.5);
+    }
+    img{
+      border-radius: 5px;/*css3 新特性之圆角*/
+    }
+  }
   .thumbnail {
     position: relative;
     display: block;
