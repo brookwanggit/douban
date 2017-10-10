@@ -23,6 +23,8 @@
                 <ul>
                     <li>
                         <strong>工作性质：</strong>全职</li>
+                        <li>
+                        <strong>期望职位：</strong>前端经理、前端高级工程师</li>
                     <li>
                         <strong>期望月薪：</strong>面议</li>
                     <li>
