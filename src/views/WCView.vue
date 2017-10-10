@@ -37,7 +37,7 @@
                 <h5>自我评价</h5>
             </dt>
             <dd>
-                <p style="font-weight: bolder;width:574px; overflow:hidden;word-break: break-all; word-wrap:break-word;">工作至今，前端技术发生了翻天覆地的变化,从最古老的 javascript jquery&nbsp;&nbsp;css ajax html4 做起,经历了extjs bootstrap&nbsp;&nbsp;jquerymobile canjs less react html5 css3 ,响应式 一直到现在的 angular1.4 h5&nbsp;&nbsp;sass&nbsp;&nbsp; es6 ,&nbsp;&nbsp;vue nodejs koa&nbsp;&nbsp;，(vue nodejs koa 这个是自己弄得小项目在学习 ，没有在实际工作中使用 以备万一 )<br />前端工具也从单一的 VS Studio IDE&nbsp;&nbsp;变成了 现在Intel Lij IDEA ,sublime , iterm 控制台 git 多样化 工程化，<br />我也从单纯的功能开发走向了&nbsp;&nbsp;核心代码构建、 关键模块的编码、 带领团队攻坚 学习,，回首以前 变化真的不是一般的大。<br />同时以前不怎么运动的我 现在喜欢上了游泳和滑板&nbsp;&nbsp;,基本上每周游泳三到四次,滑板每周两到三次左右。<br /><br />我是一个为了不被技术落下,为了父母 而努力学习工作的人。<br /></p>
+                <p style="font-weight: bolder;width:574px; overflow:hidden;word-break: break-all; word-wrap:break-word;">工作至今，前端技术发生了翻天覆地的变化,从最古老的 javascript jquery  &nbsp;css ajax html4 做起,经历了extjs bootstrap  &nbsp;jquerymobile canjs less react html5 css3 ,响应式 一直到现在的 angular1.4 h5  &nbsp;sass  &nbsp; es6 ,  &nbsp;vue nodejs koa  &nbsp;，(vue nodejs koa 这个是自己弄得小项目在学习 ，没有在实际工作中使用 以备万一 )<br />前端工具也从单一的 VS Studio IDE  &nbsp;变成了 现在Intel Lij IDEA ,sublime , iterm 控制台 git 多样化 工程化，<br />我也从单纯的功能开发走向了  &nbsp;核心代码构建、 关键模块的编码、 带领团队攻坚 学习,，回首以前 变化真的不是一般的大。<br />同时以前不怎么运动的我 现在喜欢上了游泳和滑板  &nbsp;,基本上每周游泳三到四次,滑板每周两到三次左右。<br /><br />我是一个为了不被技术落下,为了父母 而努力学习工作的人。<br /></p>
             </dd>
             <dt>
                 <h5>工作经历</h5>
@@ -103,7 +103,7 @@
                     <p>
                         <strong>责任描述：</strong><br />担任该项目的前端组长，负责项目架构，带领团队成员完成功能的开发。</p>
                     <p>
-                        <strong>项目简介：</strong><br />该项目是将船舶日常的工作移到saas平台上，包括备件物料的 保养 维修 采购，船员调配等等。<br />互海通项目包括 船公司管理系统 ，互海通后台管理系统.。<br />该项目的技术点有 Angular JS 1.4框架,sass预处理器, restful 风格,ES6语法,gulp 编译 发布 压缩等,bootstrap,ajax&nbsp;&nbsp;等。该项目是完全的前后端分离，另外基本上抛弃了jquery，只有一个页面使用了jquery。<br /><br /><br /></p>
+                        <strong>项目简介：</strong><br />该项目是将船舶日常的工作移到saas平台上，包括备件物料的 保养 维修 采购，船员调配等等。<br />互海通项目包括 船公司管理系统 ，互海通后台管理系统.。<br />该项目的技术点有 Angular JS 1.4框架,sass预处理器, restful 风格,ES6语法,gulp 编译 发布 压缩等,bootstrap,ajax  &nbsp;等。该项目是完全的前后端分离，另外基本上抛弃了jquery，只有一个页面使用了jquery。<br /><br /><br /></p>
                 </div>
                 <div class="project-experience">
                     <p>2014/06 -- 2016/05</p>
@@ -121,7 +121,7 @@
                             <p>
                                 <strong>责任描述：</strong><br />1.根据设计师的设计用div+css 完成网站的页面 ，并兼容多种浏览器。<br />2.通过jquery 完成网页与用户的交互 前端与后端的交互。<br />3.完成一些推广页面</p>
                             <p>
-                                <strong>项目简介：</strong><br />酒美网是一个酒类电商网站，顾客可以通过酒的产地 酒庄名称 品牌等在 此网站购买全球各地的酒。<br />该项目的技术点就是早期的 jquery&nbsp;&nbsp;css html 。</p>
+                                <strong>项目简介：</strong><br />酒美网是一个酒类电商网站，顾客可以通过酒的产地 酒庄名称 品牌等在 此网站购买全球各地的酒。<br />该项目的技术点就是早期的 jquery  &nbsp;css html 。</p>
                         </div>
                     </div>
                 </div>

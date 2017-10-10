@@ -11,32 +11,32 @@
           <img :src="eventItem.image_hlarge" alt="">
         </div>
         <div class="detail">
-          <span>时间:&nbsp;&nbsp;</span>
+          <span>时间:  &nbsp;</span>
           <ul>
             <li>{{eventItem.begin_time}}</li>
             <li>{{eventItem.end_time}}</li>
           </ul>
         </div>
         <div class="detail">
-          <span>地点:&nbsp;&nbsp;</span>
+          <span>地点:  &nbsp;</span>
           <ul>
             <li>{{eventItem.address}}</li>
           </ul>
         </div>
         <div class="detail">
-          <span>费用:&nbsp;&nbsp;</span>
+          <span>费用:  &nbsp;</span>
           <ul>
             <li>{{eventItem.fee_str}}</li>
           </ul>
         </div>
         <div class="detail">
-          <span>类型:&nbsp;&nbsp;</span>
+          <span>类型:  &nbsp;</span>
           <ul>
             <li>{{eventItem.category_name}}</li>
           </ul>
         </div>
         <div class="detail">
-          <span>起始时间:&nbsp;&nbsp;</span>
+          <span>起始时间:  &nbsp;</span>
           <ul>
             <li v-if="eventItem.owner">{{eventItem.owner.name}}</li>
           </ul>

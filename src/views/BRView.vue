@@ -24,27 +24,23 @@
                     <li>
                         <strong>工作性质：</strong>全职</li>
                     <li>
-                        <strong>期望职业：</strong>IT管理/项目协调</li>
+                        <strong>期望月薪：</strong>面议</li>
                     <li>
-                        <strong>期望行业：</strong>互联网/电子商务</li>
-                    <li>
-                        <strong>期望月薪：</strong>面谈</li>
-                    <li>
-                        <strong>目前状况：</strong>我目前在职，正考虑换个新环境（如有合适的工作机会，到岗时间一个月左右）</li>
+                        <strong>目前状况：</strong>目前在职，正考虑换个新环境</li>
                 </ul>
             </dd>
             <dt>
                 <h5>自我评价</h5>
             </dt>
             <dd>
-                <p style="font-weight: bolder;font-size:16px; overflow:hidden;word-break: break-all; word-wrap:break-word;">
-                    工作至今，前端技术发生了翻天覆地的变化,从最古老的 <mark> javascript jquery css ajax html4</mark> 做起,
-                    经历了<mark> extjs bootstrap jquerymobile canjs less react html5 css3 响应式</mark> 一直到现在的 <mark>angular1.4 h5 sass es6 ,vue nodejs。</mark>
-                    <br /><br />前端工具也从单一的 VS Studio IDE 变成了 现在Intel Lij IDEA ,sublime , iterm 控制台 git 多样化 工程化
-                    <br /><br /> 我的后端从0 到  <mark> .net MVC</mark>  到现在的<mark> node koa</mark> ,两者皆可熟练使用
-                    <br /><br />我更是从单纯的功能开发走向了<mark> 核心代码构建、 关键模块的编码以及带领团队</mark>。
-                    <br /><br />同时以前不怎么运动的我 现在喜欢上了游泳和滑板,基本上每周游泳三到四次,滑板每周两到三次左右。
+                <p style="font-weight: bolder;font-size:14px; overflow:hidden;word-break: break-all; word-wrap:break-word;">
+                    工作至今，前端技术发生了翻天覆地的变化,
+                    <br /><br />从最老的 javascript jquery css ajax html  做起,
+                    <br /><br />经历了 bootstrap jquerymobile less react html5 css3  一直到现在的  angular h5 sass es6 ,vue nodejs。 
+                    <br /><br /> 兼容也从最初的IE系列到现在的360浏览器、PC端到现在的移动端
+                    <br /><br /> 后端从0 到asp.net 到现在的 node  ,两者皆熟练使用
                     <br /><br /> 总结来说 我没有良好的家庭条件，没有帅气的外貌，也没有能说会道的口才,只有靠技术来让自己过得更有质量。
+                    <br /><br />同时以前不怎么运动的我 现在喜欢上了游泳和滑板,基本上每周游泳三四次，滑板一周两次左右。
                 </p>
             </dd>
             <dt>
@@ -57,6 +53,10 @@
                         <span class="ver-line">|</span>前端组长</h6>
                     <p>
                         <span> 行业类别： 互联网/电子商务</span>
+                        <span></span>
+                    </p>
+                     <p>
+                        <span> 下属: 3人</span>
                         <span></span>
                     </p>
                     <p>
@@ -96,18 +96,34 @@
                     <p>
                         <strong>责任描述：</strong><br />担任该项目的前端组长，负责项目架构，带领团队成员完成功能的开发。</p>
                     <p>
-                        <strong>项目简介：</strong><br />该项目是将船舶日常的工作移到saas平台上，包括备件物料的 保养 维修 采购，船员调配等等。<br />互海通项目包括 船公司管理系统 ，互海通后台管理系统.。<br />该项目的技术点有 Angular JS 1.4框架,sass预处理器, restful 风格,ES6语法,gulp 编译 发布 压缩等,bootstrap,ajax&nbsp;&nbsp;等。该项目是完全的前后端分离，另外基本上抛弃了jquery，只有一个页面使用了jquery。<br /></p>
+                        <strong>项目简介：</strong><br />该项目是将船舶日常的工作移到saas平台上，包括备件物料的 保养 维修 采购，船员调配等等。
+                        <br />互海通项目包括 船公司管理系统 ，互海通后台管理系统。
+                        <br />该项目的技术点有 Angular JS 1.4框架,sass预处理器, restful 风格,ES6语法,gulp 编译 发布 压缩等,bootstrap,ajax 等。
+                        该项目是完全的前后端分离，另外基本上抛弃了jquery，只有一个页面使用了jquery。<br /></p>
                 </div>
                 <div class="project-experience">
                     <p>2013/10 -- 2015/05</p>
-                    <h6>ezbuy</h6>
+                    <h6> ezbuy </h6>
                     <div>
                         <p>
-                            <strong>责任描述：</strong><br />完成领导分配的任务。</p>
+                            <strong>责任描述：</strong><br />
+                                前端与后端的交互。<br />
+                                对各专题活动进行前端DIV+CSS设计制作；<br />
+                                网站与浏览器兼容性的调试。<br />
+                                前台代码的优化<br />
+                                工程化处理<br />
+                            </p>
                         <p>
-                            <strong>项目简介：</strong><br />ezbuy是让东南亚 用户更方便的购买国内的商品,<br />它导入淘宝 京东 当当网 唯品会等国内知名的购物网站的商品，也可以由用户自行导入想买的商品的链接 来实现买国内的商品。最后由本公司把商品运送到客户的手上。<br />  该项目分为<mark>三个子项目</mark>，分别是给普通用户使用的,运营人员使用的,高管和老板使用的 ,<br />技术亮点有 React html5 gulp less es6. restful ,echart数据可视化<br /></p>
+                            <strong>项目简介：</strong><br />ezbuy是让东南亚 用户更方便的购买国内的商品,
+                            <br />它导入淘宝 京东 当当网 唯品会等国内知名的购物网站的商品，也可以由用户自行导入想买的商品的链接 来实现买国内的商品。最后由本公司的物流将商品送到客户的手里
+                            <br /> 该项目分为四个子项目,ezbuy 商城PC端,ezbuy 商城手机端,ezbuy 后台运营系统
+                            <br /> 
+
+
+                            <br />技术栈: Jquery React html5 gulp less es6. restful ,echart<br /></p>
                     </div>
                 </div>
+                
                     <div class="project-experience">
                         <p>2013/1 -- 2014/06</p>
                         <h6>酒美网</h6>
@@ -115,7 +131,7 @@
                             <p>
                                 <strong>责任描述：</strong><br />1.根据设计师的设计用div+css 完成网站的页面 ，并兼容多种浏览器。<br />2.通过jquery 完成网页与用户的交互 前端与后端的交互。<br />3.完成一些推广页面</p>
                             <p>
-                                <strong>项目简介：</strong><br />酒美网是一个酒类电商网站，顾客可以通过酒的产地 酒庄名称 品牌等在 此网站购买全球各地的酒。<br />该项目的技术点就是早期的 jquery&nbsp;&nbsp;css html 。</p>
+                                <strong>项目简介：</strong><br />酒美网是一个酒类电商网站，顾客可以通过酒的产地 酒庄名称 品牌等在 此网站购买全球各地的酒。<br />该项目的技术点就是早期的 jquery  &nbsp;css html 。</p>
                         </div>
                     </div>
                 
@@ -138,9 +154,12 @@
     </div>
 </template>
 
-export default {
+<script>
+    document.title = '王超 - 简历'
+    export default {
+    }
+</script>
 
-}
  <style type="text/css">
 body,
 div,
