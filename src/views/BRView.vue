@@ -9,7 +9,7 @@
             <span class="ver-line">|</span>1991年11月生
             <span class="ver-line">|</span> 户口：湖北-潜江
             <span class="ver-line">|</span> 现居住于:上海
-            <br />5年工作经验
+            <br />4.5年工作经验
             <p>13817112967</p>
             <p> E-mail：
                 <a href="mailto:brook.wang@qq.com">brook.wang@qq.com</a>
