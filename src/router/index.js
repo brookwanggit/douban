@@ -12,8 +12,6 @@ import DetailView from '../views/DetailView'
 import SearchView from '../views/SearchView'
 import LoginView from '../views/LoginView'
 import RegisterView from '../views/RegisterView'
-import WCView from '../views/WCView'
-import BRView from '../views/BRView'
 
 Vue.use(Router)
 
@@ -22,15 +20,6 @@ export default new Router({
     {
       path: '/',
       redirect: '/pages/'
-    },
-    {
-      path:'/wc',
-      component:WCView
-    },
-    {
-      path:'/br',
-      component:BRView,
-      title:'王超-简历'
     },
     {
       path: '/pages',
